@@ -1,0 +1,76 @@
+.main-menu ul {
+margin-left: 100px;
+  padding: 0;  
+text-align: center;
+margin-top: 250px;
+}
+.main-menu li {
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 30px;
+  font-size: 15px;
+}
+
+.main-menu a {
+  color: #EECECD;
+}
+
+.logo {
+ display: inline-block;
+  float: right;
+   margin-right: 290px;
+  margin-top:20px;
+}
+
+
+body {
+   
+  margin: 0;
+  padding: 0;
+ background-image: 
+  url('./background-image.png'), url('./man.png');
+ background-size: cover, auto 600px;
+background-position: center , 700px 340px; 
+background-repeat: no-repeat , no-repeat;
+min-height: 100vh;
+}
+
+.about-me {
+  margin-left: 280px;
+  margin-top: 130px;
+}
+.b{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.q{
+ color: #EECECD;
+ font-size: 35px;
+}
+
+.main-menu li.h {
+    color: #EECECD;
+    font-size: 50px;
+    padding-right: 210px;
+}
+
+.v {
+    transform: rotate(269deg);
+    font-size: 120px;
+    color: rgba(238, 206, 205, 0.4);
+    text-align: right;
+    margin-left: 780px;
+    margin-top: 0px;
+}
+
+button{
+    background-color: #EECECD;
+    color: white;
+   border: none;
+   padding: 10px 10px;
+   border-radius: 5px;
+   margin-left: 280px;
+   margin-top: 10px;
+}
+
