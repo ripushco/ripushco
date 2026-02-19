@@ -1,5 +1,5 @@
 .main-menu ul {
-margin-left: 100px;
+margin-left: 80px;
   padding: 0;  
 text-align: center;
 margin-top: 250px;
@@ -37,7 +37,7 @@ min-height: 100vh;
 }
 
 .about-me {
-  margin-left: 280px;
+  margin-left: 250px;
   margin-top: 130px;
 }
 .b{
@@ -54,7 +54,9 @@ min-height: 100vh;
     color: #EECECD;
     font-size: 50px;
     padding-right: 210px;
+
 }
+
 
 .v {
     transform: rotate(269deg);
@@ -62,7 +64,6 @@ min-height: 100vh;
     color: rgba(238, 206, 205, 0.4);
     text-align: right;
     margin-left: 780px;
-    margin-top: 0px;
 }
 
 button{
@@ -71,7 +72,6 @@ button{
    border: none;
    padding: 10px 10px;
    border-radius: 5px;
-   margin-left: 280px;
+   margin-left: 250px;
    margin-top: 10px;
 }
-
